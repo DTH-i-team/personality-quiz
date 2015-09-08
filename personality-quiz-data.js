@@ -2,7 +2,7 @@ quiz_data = {
 
     "title": "Which fruit are you?",
     "description": "Everyone likes fruit. Take this quiz to find out which fruit you're most like. It'll be fun, promise.",
-    
+
     "results": [
         {"label": "Pineapple",
         "description": "Pineapples are spiky but also delicious. Nature can be mean like that."},
@@ -17,7 +17,6 @@ quiz_data = {
         "description": "Strawberries aren't straws or berries. What's up with that?"}
     ],
         
-
     "questions": [
         {"question": "What is your favorite color?", 
          "answers": [
