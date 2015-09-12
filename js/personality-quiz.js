@@ -3,7 +3,7 @@ $(document).ready(function(){
     quiz.append("<div id='heading'></div>");
     quiz.append("<div id='questions'></div>");
     quiz.append("<button id='submit'>See Your Results</button>");
-    quiz.append("<div id='results'></div>");
+    quiz.append("<div id='results'><h3></h3><img><p></p></div>");
 
     appendHeading();
     appendQuestions(quiz_data.questions);
@@ -26,9 +26,14 @@ function appendQuestions(questions){
         question.innerText = questions[q].question;
         $(question_div).append(question);
         
+        //add image
+        var img = document.createElement("img");
+        img.src = questions[q].img_src;
+        $(question_div).append(img);
+
         //append answers
         appendAnswers(questions[q].answers, question_div);
-
+         
         $("#questions").append(question_div);
     }
 }
@@ -97,7 +102,7 @@ function scoreQuiz(){
 }
 
 function showResults(index){
-    var result = "<h3>"+quiz_data.results[index].label+"</h3> <p>"+quiz_data.results[index].description+"</p>";
-    
-    $("#results")[0].innerHTML = result;    
+    $("#results h3").text(quiz_data.results[index].label);
+    $("#results img")[0].src = quiz_data.results[index].img_src;
+    $("#results p").text(quiz_data.results[index].description);  
 }

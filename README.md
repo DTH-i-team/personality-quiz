@@ -7,9 +7,9 @@ The structure of this file is basically a hierarchy. The top-level elements are 
 
 - "title" and "description" are just text. 
 
-- "results" is a list of possible results of the quiz. Each item is contained in a set of curly brackets, and it consists of the elements "label" and "description". "label" and "description" are just text.
+- "results" is a list of possible results of the quiz. Each item is contained in a set of curly brackets, and it consists of the elements "label", "description", and "img_src". "label" and "description" are just text. "img_src" is a link to an image. If you don't want to include an image, put empty quotes. (As in, "img_src": "".)
 
-- "questions" is a list of all the questions in the quiz. Each item is contained in curly brackets and consists of the elements "question" and "answers". "question" is the actual text of the question. 
+- "questions" is a list of all the questions in the quiz. Each item is contained in curly brackets and consists of the elements "question", "answers", and "img_src". "question" is the actual text of the question. "img_src" works just as in the "results" element.
 
 - "answers" is a list of all the possible answers for that question. Each item is contained in curly brackets and consists of the elements "text" and "effect". "text" is the part that is displayed to the reader.
 
