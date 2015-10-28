@@ -3,7 +3,9 @@ $(document).ready(function(){
     quiz.append("<div id='heading'></div>");
     quiz.append("<div id='questions'></div>");
     quiz.append("<button id='quiz-submit'>See Your Results</button>");
-    quiz.append("<div id='quiz-results'><h3></h3><figure><img><figcaption></figcaption></figure><p></p></div>");
+    quiz.append("<div id='quiz-results'></div>");
+    $("#quiz-results").append("<h3></h3><figure></figure><p></p>");
+    $("#quiz-results figure").append("<img><figcaption></figcaption>");
 
     appendHeading();
     appendQuestions(quiz_data.questions);
