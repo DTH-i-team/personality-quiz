@@ -3,7 +3,7 @@ $(document).ready(function(){
     quiz.append("<div id='heading'></div>");
     quiz.append("<div id='questions'></div>");
     quiz.append("<button id='submit'>See Your Results</button>");
-    quiz.append("<div id='results'><h3></h3><img><p></p></div>");
+    quiz.append("<div id='results'><h3></h3><figure><img><figcaption></figcaption></figure><p></p></div>");
 
     appendHeading();
     appendQuestions(quiz_data.questions);
@@ -17,7 +17,7 @@ function appendHeading(){
 }
 
 function appendQuestions(questions){
-     for (q in questions){
+     for (var q in questions){
         var question_div = document.createElement("div");
         question_div.className = "question";
         
@@ -26,36 +26,34 @@ function appendQuestions(questions){
         question.innerText = questions[q].question;
         $(question_div).append(question);
          
-    
         //append answers
-        appendAnswers(questions[q].answers, question_div);
-         
+        appendAnswers(q, questions[q].answers, question_div);
+
         $("#questions").append(question_div);
     }
 }
 
-function appendAnswers(answers, question_div){
+function appendAnswers(q, answers, question_div){
      for (var i in answers){
          var a = answers[i];
          var answer_div = document.createElement("div");
-
          
+         var template;
          if (a.img_src){
-            var template = document.getElementById("image-option").content;
-             
-            var img = template.querySelector("img");
-            img.src = a.img_src;
-            var caption = template.querySelector("figcaption");
-            caption.textContent = a.text;
-             
-            var input = template.querySelector("input");
-            input.value = i;
-             
-            var clone = document.importNode(template, true);
-            answer_div.appendChild(clone);
+            template = document.getElementById("image-option").content;
+            template.querySelector("img").src = a.img_src;
+            template.querySelector("figcaption").textContent = a.text;
          } else {
-            $(answer_div).append('<input type="radio" name="'+q+'" value="'+a+'">' +a.text+'<br>'); 
+            template = document.getElementById("text-option").content;
+            template.querySelector("span").textContent = a.text;
          }
+         
+        var input = template.querySelector("input");
+        input.value = i;
+        input.name = q;
+
+        var clone = document.importNode(template, true);
+        answer_div.appendChild(clone);
          
         $(question_div).append(answer_div);
     }
@@ -116,7 +114,9 @@ function scoreQuiz(){
 }
 
 function showResults(index){
-    $("#results h3").text(quiz_data.results[index].label);
-    $("#results img")[0].src = quiz_data.results[index].img_src;
-    $("#results p").text(quiz_data.results[index].description);  
+    var result = quiz_data.results[index];
+    $("#results h3").text(result.label);
+    $("#results img")[0].src = result.img_src;
+    $("#results p").text(result.description);  
+    $("#results figcaption").text(result.text);
 }
