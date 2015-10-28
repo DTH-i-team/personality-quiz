@@ -25,12 +25,8 @@ function appendQuestions(questions){
         var question = document.createElement("h3");
         question.innerText = questions[q].question;
         $(question_div).append(question);
-        
-        //add image
-        var img = document.createElement("img");
-        img.src = questions[q].img_src;
-        $(question_div).append(img);
-
+         
+    
         //append answers
         appendAnswers(questions[q].answers, question_div);
          
@@ -39,10 +35,28 @@ function appendQuestions(questions){
 }
 
 function appendAnswers(answers, question_div){
-     for (a in answers){
-        var answer_div = document.createElement("div");
+     for (var i in answers){
+         var a = answers[i];
+         var answer_div = document.createElement("div");
 
-        $(answer_div).append('<input type="radio" name="'+q+'" value="'+a+'">' +answers[a].text+'<br>');
+         
+         if (a.img_src){
+            var template = document.getElementById("image-option").content;
+             
+            var img = template.querySelector("img");
+            img.src = a.img_src;
+            var caption = template.querySelector("figcaption");
+            caption.textContent = a.text;
+             
+            var input = template.querySelector("input");
+            input.value = i;
+             
+            var clone = document.importNode(template, true);
+            answer_div.appendChild(clone);
+         } else {
+            $(answer_div).append('<input type="radio" name="'+q+'" value="'+a+'">' +answers[a].text+'<br>'); 
+         }
+         
         $(question_div).append(answer_div);
     }
 }

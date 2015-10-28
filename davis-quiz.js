@@ -44,8 +44,7 @@ quiz_data = {
 		   {"text": "The top student just got a 47% on the midterm.", 
               "effect": [0,0,0,1]
              },
-         ], 
-         "img_src": "http://images.clipartpanda.com/rainbow-with-clouds-clipart-jTxE6jrec.jpeg"
+         ]
         },
         {"question": "When you study, you like to eat _______", 
          "answers": [
@@ -61,8 +60,7 @@ quiz_data = {
 		   {"text": "nothing - food distracts me from focusing.", 
               "effect": [0,0,0,1]
              },
-         ], 
-         "img_src": "http://i5.walmartimages.com/dfw/dce07b8c-2d8d/k2-_3fe71aae-bec7-4700-92c2-9292e4ab16b2.v1.jpg"
+         ] 
         },        
         {"question": "Pick an emoji.", 
          "answers": [
@@ -82,8 +80,7 @@ quiz_data = {
 		   "text": "Source: Emojipedia", 
               "effect": [0,0,0,1]
              }
-         ], 
-         "img_src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg"
+         ]
    },        
         {"question": "How late do you plan on going to sleep tonight?", 
          "answers": [
@@ -99,8 +96,7 @@ quiz_data = {
              {"text": "1 am or later", 
               "effect": [0,0,0,1]
              }
-         ], 
-"img_src": "http://i5.walmartimages.com/dfw/dce07b8c-2d8d/k2-_3fe71aae-bec7-4700-92c2-9292e4ab16b2.v1.jpg"
+         ]
         },        
         {"question": "Have you been procrastinating lately?", 
          "answers": [
@@ -116,8 +112,7 @@ quiz_data = {
              {"text": "I'll answer this question later, I swear.", 
               "effect": [1,0,0,0]
              }
-         ], 
-"img_src": "http://i5.walmartimages.com/dfw/dce07b8c-2d8d/k2-_3fe71aae-bec7-4700-92c2-9292e4ab16b2.v1.jpg"
+         ]
         },        
         {"question": "Which one of these dog photos looks most like you right now?", 
          "answers": [
@@ -137,8 +132,7 @@ quiz_data = {
 		    "text": "Source: Deviant Art", 
               "effect": [1,0,0,0]
              }
-         ], 
-"img_src": "http://i5.walmartimages.com/dfw/dce07b8c-2d8d/k2-_3fe71aae-bec7-4700-92c2-9292e4ab16b2.v1.jpg"
+         ]
         },        
         {"question": "If you could be doing anything other than studying, you would be ________", 
          "answers": [
