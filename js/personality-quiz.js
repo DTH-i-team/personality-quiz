@@ -113,8 +113,8 @@ function scoreQuiz(){
         showResults(highest_t);
         
     } else {
-        $("#quiz-results").text("You missed a question!");
-        setTimeout(function(){$("#quiz-results").text("");}, 3000);
+        $("#quiz-results h3").text("You missed a question!");
+        setTimeout(function(){$("#quiz-results h3").text("");}, 3000);
     }
 }
 
