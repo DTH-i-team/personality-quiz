@@ -2,13 +2,13 @@ $(document).ready(function(){
     var quiz = $("#quiz");
     quiz.append("<div id='heading'></div>");
     quiz.append("<div id='questions'></div>");
-    quiz.append("<button id='submit'>See Your Results</button>");
-    quiz.append("<div id='results'><h3></h3><figure><img><figcaption></figcaption></figure><p></p></div>");
+    quiz.append("<button id='quiz-submit'>See Your Results</button>");
+    quiz.append("<div id='quiz-results'><h3></h3><figure><img><figcaption></figcaption></figure><p></p></div>");
 
     appendHeading();
     appendQuestions(quiz_data.questions);
    
-    $("#submit").click(scoreQuiz);
+    $("#quiz-submit").click(scoreQuiz);
 });
 
 function appendHeading(){
@@ -108,15 +108,15 @@ function scoreQuiz(){
         showResults(highest_t);
         
     } else {
-        $("#results").text("You missed a question!");
-        setTimeout(function(){$("#results").text("");}, 3000);
+        $("#quiz-results").text("You missed a question!");
+        setTimeout(function(){$("#quiz-results").text("");}, 3000);
     }
 }
 
 function showResults(index){
     var result = quiz_data.results[index];
-    $("#results h3").text(result.label);
-    $("#results img")[0].src = result.img_src;
-    $("#results p").text(result.description);  
-    $("#results figcaption").text(result.text);
+    $("#quiz-results").text(result.label);
+    $("#quiz-results img")[0].src = result.img_src;
+    $("#quiz-results p").text(result.description);  
+    $("#quiz-results figcaption").text(result.text);
 }
