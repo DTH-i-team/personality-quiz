@@ -54,7 +54,7 @@ function appendAnswers(answers, question_div){
             var clone = document.importNode(template, true);
             answer_div.appendChild(clone);
          } else {
-            $(answer_div).append('<input type="radio" name="'+q+'" value="'+a+'">' +answers[a].text+'<br>'); 
+            $(answer_div).append('<input type="radio" name="'+q+'" value="'+a+'">' +a.text+'<br>'); 
          }
          
         $(question_div).append(answer_div);
