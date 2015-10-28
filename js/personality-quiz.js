@@ -121,7 +121,7 @@ function scoreQuiz(){
 
 function showResults(index){
     var result = quiz_data.results[index];
-    $("#quiz-results").text(result.label);
+    $("#quiz-results h3").text(result.label);
     $("#quiz-results img")[0].src = result.img_src;
     $("#quiz-results p").text(result.description);  
     $("#quiz-results figcaption").text(result.text);
