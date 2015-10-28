@@ -11,7 +11,7 @@ quiz_data = {
 	   "text": "Source: Sinscaptain on Blogspot",
         },
         
-        {"label": "Floor "1-3: Wow, I didn’t even know it was legal for a math equation to be that long.",
+        {"label": "Floor 1-3: Wow, I didn’t even know it was legal for a math equation to be that long.",
         "description": "Your stress levels are definitely high enough that you need a place to focus, but not necessarily somewhere with absolute silence. The best places for you to work are probably on the first couple floors of Davis, where you can ask your study buddies a question without being brutally shushed.", 
         "img_src": "http://www.insidearm.com/wp-content/uploads/lecture1.jpg?279849"
 	   "text": "Source: Inside Arm",
@@ -23,7 +23,7 @@ quiz_data = {
 	   "text": "Students 4 Best Evidence",
         },
         
-        {"label": "Floor "7-8: What’s that, you say? An 8 AM test you have to ace to pass the class?",
+        {"label": "Floor 7-8: What’s that, you say? An 8 AM test you have to ace to pass the class?",
         "description": "You must have complete and utter silence. If anyone is talking, they will be kicked off the island. If they are breathing too loudly, they will be escorted out by your personal bouncers.  You must be able to hear paint drying for the focus that you require. Head up to the top levels of the library ASAP, and best of luck on whatever insane assignment you have due tomorrow.", 
         "img_src": "http://lh5.ggpht.com/-XNqYfN-rTLQ/UwKSWCsurrI/AAAAAAAAXGA/kMhLqflOH-Q/beating%252520stress%252520-%252520law%252520student_thumb%25255B5%25255D.jpg?imgmax=800"
 	   "text": "Source: Law Actually on Blogspot",
