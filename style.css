@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Courgette);
+
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+body {  
+    font-family: 'Raleway', sans-serif;
+    color:#484c4f;
+}
+
+h1, h2, h3 {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1, h2, h3 {
+    color: #56a0d3;
+}
+
+h3 {
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+
+figcaption {
+    font-size: 0.7em;
+}
+
+img {
+    border: 3px solid #d3dfe8;
+    background: #d3dfe8;
+    border-radius: 5px;
+    max-width: 150px;
+}
+
+#quiz-submit {
+    margin-top: 2%;
+    background: #56a0d3;
+    border: none;
+    padding: 1%;
+    font-size: 1.5em;
+    font-family: 'Courgette', cursive;
+    border-radius: 5px;
+    color: #FFF;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#quiz-submit:hover{
+    background: #5a6972;
+    transition: 0.4s;
+}

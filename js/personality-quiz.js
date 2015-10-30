@@ -28,7 +28,7 @@ function appendQuestions(questions){
         
         //append question text
         var question = document.createElement("h3");
-        question.innerText = questions[q].question;
+        question.textContent = questions[q].question;
         $(question_div).append(question);
          
         //append answers
@@ -44,10 +44,10 @@ function appendAnswers(q, answers, question_div){
          var answer_div = document.createElement("div");
          
          var template;
-         if (a.img_src){
+         if (a.img){
             template = document.getElementById("image-option").content;
-            template.querySelector("img").src = a.img_src;
-            template.querySelector("figcaption").textContent = a.text;
+            template.querySelector("img").src = a.img;
+            template.querySelector("figcaption").textContent = a.source;
          } else {
             template = document.getElementById("text-option").content;
             template.querySelector("span").textContent = a.text;
@@ -92,13 +92,14 @@ function isCompleted(){
 function scoreQuiz(){
     var responses = isCompleted();
     if (responses){
-        var totals = quiz_data.questions[0].answers[responses[0]].effect;
+        var totals =[];  
+        for (var i in quiz_data.results){
+            totals.push(0);
+        }
 
-        for (var i=1;i<responses.length;i++){
-            var effect = quiz_data.questions[i].answers[responses[i]].effect;
-            for (e in effect){
-                totals[e] += effect[e];
-            }
+        for (var i=0;i<responses.length;i++){
+            var point = quiz_data.questions[i].answers[responses[i]].result -1;
+            totals[point] = totals[point]+1;
         }
         
         var highest = totals[0];
@@ -120,8 +121,8 @@ function scoreQuiz(){
 
 function showResults(index){
     var result = quiz_data.results[index];
-    $("#quiz-results h3").text(result.label);
-    $("#quiz-results img")[0].src = result.img_src;
+    $("#quiz-results h3").text(result.title);
+    $("#quiz-results img")[0].src = result.img ? result.img : "";
     $("#quiz-results p").text(result.description);  
-    $("#quiz-results figcaption").text(result.text);
+    $("#quiz-results figcaption").text(result.source=="Source: write the source of the image here"? "":result.source);
 }
