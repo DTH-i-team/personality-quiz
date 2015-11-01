@@ -2,29 +2,29 @@
 
 @import url(https://fonts.googleapis.com/css?family=Raleway);
 
-body {  
+#quiz {  
     font-family: 'Raleway', sans-serif;
     color:#484c4f;
 }
 
-h1, h2, h3 {
+#quiz h1, h2, h3 {
     font-family: 'Raleway', sans-serif;
 }
 
-h1, h2, h3 {
+#quiz h1, h2, h3 {
     color: #56a0d3;
 }
 
-h3 {
+#quiz h3 {
     margin-bottom: 0px;
     margin-top: 30px;
 }
 
-figcaption {
+#quiz figcaption {
     font-size: 0.7em;
 }
 
-img {
+#quiz img {
     border: 3px solid #d3dfe8;
     background: #d3dfe8;
     border-radius: 5px;
