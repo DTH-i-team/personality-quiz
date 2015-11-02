@@ -1,5 +1,4 @@
 $(document).ready(function(){
-    $("script[src='http://dth-i-team.github.io/personality-quiz/js/personality-quiz.js']").remove();
     var quiz = $("#quiz");
     quiz.append("<div id='heading'></div>");
     quiz.append("<div id='questions'></div>");
@@ -7,7 +6,7 @@ $(document).ready(function(){
     quiz.append("<div id='quiz-results'></div>");
     $("#quiz-results").append("<h3></h3>")
     $("#quiz-results").append("<figure></figure>");   
-    var figure = $("quiz-results figure")[0];
+    var figure = $("#quiz-results figure")[0];
     $(figure).append("img");
     $(figure).append("figcaption");
 
