@@ -1,4 +1,5 @@
 $(document).ready(function(){
+    $("script[src='http://dth-i-team.github.io/personality-quiz/js/personality-quiz.js']").remove();
     var quiz = $("#quiz");
     quiz.append("<div id='heading'></div>");
     quiz.append("<div id='questions'></div>");

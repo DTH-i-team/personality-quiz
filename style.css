@@ -28,6 +28,7 @@
     border: 3px solid #d3dfe8;
     background: #d3dfe8;
     border-radius: 5px;
+    width: 300px;
 }
 
 #quiz-submit {
