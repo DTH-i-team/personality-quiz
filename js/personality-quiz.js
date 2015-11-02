@@ -5,10 +5,7 @@ $(document).ready(function(){
     quiz.append("<button id='quiz-submit'>See Your Results</button>");
     quiz.append("<div id='quiz-results'></div>");
     $("#quiz-results").append("<h3></h3>")
-    $("#quiz-results").append("<figure></figure>");
-    $("#quiz-results").append("<p></p>");
-    $("#quiz-results figure").append("<img>");
-    $("#quiz-results figure").append("<figcaption></figcaption>");    
+    $("#quiz-results").append("<figure><img></img><figcaption></figcaption></figure>");   
 
     appendHeading();
     appendQuestions(quiz_data.questions);
