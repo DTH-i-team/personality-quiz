@@ -7,8 +7,8 @@ $(document).ready(function(){
     $("#quiz-results").append("<h3></h3>")
     $("#quiz-results").append("<figure></figure>");   
     var figure = $("#quiz-results figure")[0];
-    $(figure).append("img");
-    $(figure).append("figcaption");
+    $(figure).append("<img></img>");
+    $(figure).append("<figcaption></figcaption>");
 
     appendHeading();
     appendQuestions(quiz_data.questions);
