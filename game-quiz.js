@@ -46,7 +46,7 @@ quiz_data = {
         {
         "title": "Barbie's Swan Lake",
         "description": "This game plays how cotton candy tastes. Frighteningly sweet with the potential to make you sick. Just like you! Not that you'll make people sick, er, I mean, I hope not . . . ", 
-        "img": "http://38.media.tumblr.com/tumblr_loesk8WXpY1qg9cr9.png.",
+        "img": "http://38.media.tumblr.com/tumblr_loesk8WXpY1qg9cr9.png",
 	   "source": "Viralrumors.com",
         },
         
@@ -54,7 +54,7 @@ quiz_data = {
         {
         "title": "Typer Shark",
         "description": "This game made me want to tear my hair out when I was little. And I think you might be balding a little, man. Take it easy, relax if you can. And whatever you do, for God's sake, don't play this game. Stress reliever it is not.", 
-        "img": "http://cdn.ghstatic.com/images/deluxe/300x150/200259.jpg.",
+        "img": "http://cdn.ghstatic.com/images/deluxe/300x150/200259.jpg",
 	    "source": "Gatehouse.com",
         },
         
@@ -62,7 +62,7 @@ quiz_data = {
         {
         "title": "Nancy Drew",
         "description": "You're a tough, spunky girl with a whole lot of passion. You're not scared by bullies, not intimidated by challenging puzzles, and you're certainly not scared of any ghost dogs! Okay, maybe just a little.", 
-        "img": "http://www.encore.com/images/Product/medium/2948.jpg.",
+        "img": "http://www.encore.com/images/Product/medium/2948.jpg",
 	    "source": "Encore.com",
         },
         
@@ -70,7 +70,7 @@ quiz_data = {
         {
         "title": "Trick or Treat Beat",
         "description": "You prefer the tricks in life, but you wouldn't say no to some candy. Hanging out with your friends is number one on your list of awesome things to do, right on up there with gathering the gang and ding-dong-ditching the neighbors.", 
-        "img": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i27/trickortreatbeat.jpg.",
+        "img": "http://i.cdn.turner.com/v5cache/CARTOON/site/Images/i27/trickortreatbeat.jpg",
 	    "source": "Cartoonnetwork.com",
         },
         
