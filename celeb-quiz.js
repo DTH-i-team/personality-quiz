@@ -48,7 +48,7 @@ quiz_data = {
         /* Result 1 */
         {
         "title": "Roy Williams",
-        "description": "Just like Roy, you're a natural leader. You've got a good head on your shoulders and you are high key a baller. Your fashion sense is unique and legendary. Also, if I had to guess, I'd probably say that you're 65 years old and 5'10."", 
+        "description": "Just like Roy, you're a natural leader. You've got a good head on your shoulders and you are high key a baller. Your fashion sense is unique and legendary. Also, if I had to guess, I'd probably say that you're 65 years old and 5'10.", 
         "img": "http://s3.amazonaws.com/media.dth/26596_1213_uncvswmbasketball_conway034f.jpg",
 	   "source": "The Daily Tar Heel",
         },
