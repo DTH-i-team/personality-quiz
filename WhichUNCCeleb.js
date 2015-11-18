@@ -61,7 +61,7 @@ quiz_data = {
         /*  Result 3 */
         {
         "title": "Kennedy Meeks",
-        "description": "No one has to tell you twice that you’re a baller. One of these days, LeBron will envy your skill and success. Don’t be surprised when you catch people taking selfies of you behind your back.”, 
+        "description": "No one has to tell you twice that you’re a baller. One of these days, LeBron will envy your skill and success. Don’t be surprised when you catch people taking selfies of you behind your back.", 
         "img": "http://s3.amazonaws.com/media.dth/26333_img_3011f.jpg",
 	    "source": “The Daily Tar Heel”,
         },
