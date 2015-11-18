@@ -45,9 +45,9 @@ quiz_data = {
         /* Result 1 */
         {
         "title": "Roy Williams",
-        "description": "Just like Roy, you’re a natural leader. You’ve got a good head on your shoulders and you are high key a baller. Your fashion sense is unique and legendary. Also, if I had to guess, I’d probably say that you’re 65 years old and 5’10.”", 
+        "description": "Just like Roy, you're a natural leader. You've got a good head on your shoulders and you are high key a baller. Your fashion sense is unique and legendary. Also, if I had to guess, I'd probably say that you're 65 years old and 5'10.", 
         "img": "http://s3.amazonaws.com/media.dth/26596_1213_uncvswmbasketball_conway034f.jpg",
-	   "source": “The Daily Tar Heel”,
+	   "source": "The Daily Tar Heel",
         },
         
         /* Result 2 */
@@ -55,23 +55,27 @@ quiz_data = {
         "title": "Carol Folt",
         "description": "Sweet, sweet Carol. People love receiving mass emails from you. Your strong willed yet maternal essence is a comfort to everyone you come into contact with. You are a princess. And you may or may not resemble Edna Mode.", 
         "img": "https://dailytarheel.smugmug.com/PhotosfromTheDailyTarHeel/October-13/i-XRDDCrQ/0/S/folt2_sweeney-S.jpg",
-	    "source": “The Daily Tar Heel”,
+	    "source": "The Daily Tar Heel",
         },
         
         /*  Result 3 */
         {
         "title": "Kennedy Meeks",
+<<<<<<< HEAD
         "description": "No one has to tell you twice that you’re a baller. One of these days, LeBron will envy your skill and success. Don’t be surprised when you catch people taking selfies of you behind your back.", 
+=======
+        "description": "No one has to tell you twice that you're a baller. One of these days, LeBron will envy your skill and success. Don't be surprised when you catch people taking selfies of you behind your back.", 
+>>>>>>> origin/gh-pages
         "img": "http://s3.amazonaws.com/media.dth/26333_img_3011f.jpg",
-	    "source": “The Daily Tar Heel”,
+	    "source": "The Daily Tar Heel",
         },
         
         /*  Result 4 */
         {
         "title": "Pit Preacher Gary",
-        "description": "You’re strong willed and stubborn, just like Gary. You love wearing a ball cap and carrying around a lawn chair. Some people might be thrown off by your thunderous, pervasive voice, but hey—at least you’re speaking your mind.", 
+        "description": "You're strong willed and stubborn, just like Gary. You love wearing a ball cap and carrying around a lawn chair. Some people might be thrown off by your thunderous, pervasive voice, but hey-at least you're speaking your mind.", 
         "img": "http://s3.amazonaws.com/media.dth/25182_0922_pit_preacher_collins041f.jpg",
-	    "source": “The Daily Tar Heel”,
+	    "source": "The Daily Tar Heel",
         },
         
         /*
@@ -118,7 +122,7 @@ quiz_data = {
              },
              
              {
-                "text": "The anguish of Duke’s basketball team", 
+                "text": "The anguish of Duke's basketball team", 
                 "result": 1
              },
              
@@ -134,7 +138,7 @@ quiz_data = {
         },  
 	/* Stop copying right BEFORE this instruction. Include the } and comma */
         
-        {"question": "What’s your swaggest pair of kicks?", 
+        {"question": "What's your swaggest pair of kicks?", 
          "answers": [
              {
                 "text": "JORDANS", 
@@ -175,7 +179,7 @@ quiz_data = {
              },
              
              {
-                "text": "Does watching Grey’s Anatomy count as studying for bio?", 
+                "text": "Does watching Grey's Anatomy count as studying for bio?", 
                 "result": 3
              },
              
@@ -190,7 +194,7 @@ quiz_data = {
          ]
         },  
 	
-{"question": "One late night as you are walking home from the library, Shia Labeouf leaps out from behind a large bush. Immediately you…", 
+{"question": "One late night as you are walking home from the library, Shia Labeouf leaps out from behind a large bush. Immediately you:", 
          "answers": [
              {
                 "text": "Dunk on him", 
@@ -264,7 +268,7 @@ quiz_data = {
              },
              
 		     {
-                "text": “Teleporting”, 
+                "text": "Teleporting", 
                 "result": 4
              },
              
@@ -302,7 +306,7 @@ quiz_data = {
          ]
         },  
 	 
-{"question": "You’re at the club, what’s your go to dance move?", 
+{"question": "You're at the club, what's your go to dance move?", 
          "answers": [
              {
                 "text": "A soft yet confident head bob", 
