@@ -105,7 +105,7 @@ quiz_data = {
         /* This section is for a question with text answer choices  */
         
        /* Start copying right AFTER this instruction */
-       {"question": "What is your “go-to” drink at Starbucks?", 
+       {"question": "What is your 'go-to' drink at Starbucks?", 
          "answers": [
              {
                 "text": "Something with espresso in it", 
@@ -113,7 +113,7 @@ quiz_data = {
              },
              
              {
-                "text": "I don’t like Starbucks", 
+                "text": "I don't like Starbucks", 
                 "result": 2
              },
              
@@ -175,7 +175,7 @@ quiz_data = {
         
         
 	
-{"question": "What is your "go-to" selection for Netflix & Chill?", 
+{"question": "What is your 'go-to' selection for Netflix & Chill?", 
          "answers": [
              {
                 "text": "Something live action- like New Girl or Scandal", 
