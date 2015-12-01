@@ -324,7 +324,7 @@ quiz_data = {
                 "result": 1
              },
              
-		     {
+	    {
                 "text": "I own so many ceramic Santa Clauses it seems almost unhealthy.", 
                 "result": 4
              },
