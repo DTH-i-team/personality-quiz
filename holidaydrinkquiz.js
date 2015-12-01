@@ -31,7 +31,7 @@ quiz_data = {
     */
     
     "title": "What holiday drink are you?",
-    "description": "Ever wonder if you’re more of a chilly spiked egg nog or a warm red Starbucks cup? Find out here.",
+    "description": "Ever wonder if you're more of a chilly spiked egg nog or a warm red Starbucks cup? Find out here.",
 
     
     
@@ -226,7 +226,7 @@ quiz_data = {
              above this instruction, beneath the last choice section. */
          ]
         },
-{"question": "What’s the best part of the holiday season?", 
+{"question": "What's the best part of the holiday season?", 
          "answers": [
              {
                 "text": "Spending time with loved ones", 
