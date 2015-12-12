@@ -46,7 +46,7 @@ quiz_data = {
         {
         "title": "Great!! I Don't Want it to End!!",
         "description": "2015 was a breeze for you, filled with good vibes and even greater times. Let's do it again, 2015, it'll be a rager!!!!", 
-        "img": "https://giphy.com/gifs/beyonce-nicki-minaj-6kei9VvxiXula",
+        "img": "http://gph.is/1LMa3PK",
 	   "source": "Giphy",
         },
         
