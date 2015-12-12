@@ -54,7 +54,7 @@ quiz_data = {
         {
         "title": "Stressful",
         "description": "Class/work/numerous fanfiction sites kept you up all night and into the wee hours of the morning. You hope 2016 will bring you less credit hours in your shopping cart or stronger coffee.", 
-        "img": "https://giphy.com/gifs/e3-2015-sweetrolltxt-MMfROK5szfy",
+        "img": "https://media.giphy.com/media/MMfROK5szfy/giphy.gif",
 	    "source": "Giphy",
         },
         
@@ -62,7 +62,7 @@ quiz_data = {
         {
         "title": "Eh, Could've Been Better",
         "description": "2015 was the year you were that friend, the friend who says they're 'up for anything' when you really want to go disco ice skating and you end up at the movies...again. But, Inside Out turned out to a cinematic masterpiece so you were pleased either way. 2016 may make you more assertive in your decision making or maybe it'll be more of the same...who cares?", 
-        "img": "https://giphy.com/gifs/tvland-happy-animated-gif-meh-tGZRCBAPhCXxm",
+        "img": "https://media.giphy.com/media/tGZRCBAPhCXxm/giphy.gif",
 	    "source": "Giphy",
         },
         
@@ -70,7 +70,7 @@ quiz_data = {
         {
         "title": "Terrible, Horrible, No Good, Very Bad",
         "description": "Let's not talk about it. 2016, here you come.", 
-        "img": "https://giphy.com/gifs/hd-gGxSl050qQOJi",
+        "img": "https://media.giphy.com/media/gGxSl050qQOJi/giphy.gif",
 	    "source": "Giphy",
         },
         
