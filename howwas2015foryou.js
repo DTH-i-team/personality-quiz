@@ -46,7 +46,7 @@ quiz_data = {
         {
         "title": "Great!! I Don't Want it to End!!",
         "description": "2015 was a breeze for you, filled with good vibes and even greater times. Let's do it again, 2015, it'll be a rager!!!!", 
-        "img": "https://giphy.com/gifs/beyonce-nicki-minaj-6kei9VvxiXula",
+        "img": "http://giphy.com/gifs/beyonce-nicki-minaj-6kei9VvxiXula",
 	   "source": "Giphy",
         },
         
@@ -54,7 +54,7 @@ quiz_data = {
         {
         "title": "Stressful",
         "description": "Class/work/numerous fanfiction sites kept you up all night and into the wee hours of the morning. You hope 2016 will bring you less credit hours in your shopping cart or stronger coffee.", 
-        "img": "https://giphy.com/gifs/e3-2015-sweetrolltxt-MMfROK5szfy",
+        "img": "http://giphy.com/gifs/e3-2015-sweetrolltxt-MMfROK5szfy",
 	    "source": "Giphy",
         },
         
@@ -70,7 +70,7 @@ quiz_data = {
         {
         "title": "Terrible, Horrible, No Good, Very Bad",
         "description": "Let's not talk about it. 2016, here you come.", 
-        "img": "https://giphy.com/gifs/hd-gGxSl050qQOJi",
+        "img": "http://giphy.com/gifs/hd-gGxSl050qQOJi",
 	    "source": "Giphy",
         },
         
