@@ -31,7 +31,7 @@ quiz_data = {
     */
     
     "title": "How was 2015 for you?",
-    "description": "Did your year live up to what Back to the Future had in mind or nah? Take this quiz to find out!",
+    "description": "Did your year live up to what 'Back to the Future' had in mind or nah? Take this quiz to find out!",
 
     
     
@@ -46,7 +46,7 @@ quiz_data = {
         {
         "title": "Great!! I Don't Want it to End!!",
         "description": "2015 was a breeze for you, filled with good vibes and even greater times. Let's do it again, 2015, it'll be a rager!!!!", 
-        "img": "https://giphy.com/gifs/beyonce-nicki-minaj-6kei9VvxiXula?utm_source=iframe&utm_medium=embed&utm_campaign=tag_click",
+        "img": "https://giphy.com/gifs/beyonce-nicki-minaj-6kei9VvxiXula",
 	   "source": "Giphy",
         },
         
@@ -54,7 +54,7 @@ quiz_data = {
         {
         "title": "Stressful",
         "description": "Class/work/numerous fanfiction sites kept you up all night and into the wee hours of the morning. You hope 2016 will bring you less credit hours in your shopping cart or stronger coffee.", 
-        "img": "https://giphy.com/gifs/e3-2015-sweetrolltxt-MMfROK5szfy?utm_source=iframe&utm_medium=embed&utm_campaign=tag_click",
+        "img": "https://giphy.com/gifs/e3-2015-sweetrolltxt-MMfROK5szfy",
 	    "source": "Giphy",
         },
         
@@ -62,7 +62,7 @@ quiz_data = {
         {
         "title": "Eh, Could’ve Been Better",
         "description": "2015 was the year you were that friend, the friend who says they're 'up for anything' when you really want to go disco ice skating and you end up at the movies…again. But, Inside Out turned out to a cinematic masterpiece so you were pleased either way. 2016 may make you more assertive in your decision making or maybe it'll be more of the same…who cares?", 
-        "img": "http://giphy.com/gifs/tvland-happy-animated-gif-meh-tGZRCBAPhCXxm?utm_source=iframe&utm_medium=embed&utm_campaign=tag_click",
+        "img": "http://giphy.com/gifs/tvland-happy-animated-gif-meh-tGZRCBAPhCXxm",
 	    "source": "Giphy",
         },
         
@@ -70,7 +70,7 @@ quiz_data = {
         {
         "title": "Terrible, Horrible, No Good, Very Bad",
         "description": "Let's not talk about it. 2016, here you come.", 
-        "img": "https://giphy.com/gifs/hd-gGxSl050qQOJi?utm_source=iframe&utm_medium=embed&utm_campaign=tag_click",
+        "img": "https://giphy.com/gifs/hd-gGxSl050qQOJi",
 	    "source": "Giphy",
         },
         
