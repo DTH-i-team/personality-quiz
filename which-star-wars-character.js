@@ -131,7 +131,9 @@ quiz_data = {
              copy and paste a section- from the { to the } and the comma -
              above this instruction, beneath the last choice section. */
          ]
-        },  {"question": "Pick a favorite color.", 
+        },
+        
+        {"question": "Pick a favorite color.", 
          "answers": [
              {
                 "text": "I do not have a favorite color. I do not have a favorite anything. Preferences are meaningless and so is your existence.", 
@@ -157,7 +159,8 @@ quiz_data = {
              copy and paste a section- from the { to the } and the comma -
              above this instruction, beneath the last choice section. */
          ]
-        },  {"question": "Who's your Star Wars hubby?", 
+        },
+        {"question": "Who's your Star Wars hubby?", 
          "answers": [
              {
                 "text": "The only man for me is Han Solo (Though I'd prefer the 1977 model over this 2015 version).", 
@@ -183,7 +186,8 @@ quiz_data = {
              copy and paste a section- from the { to the } and the comma -
              above this instruction, beneath the last choice section. */
          ]
-        },  {"question": "Use the Force, Luke!", 
+        },
+        {"question": "Use the Force, Luke!", 
          "answers": [
              {
                 "text": "Although I supposedly have the force considering I'm sister to a Jedi and the daughter of one of the most feared beings in the galaxy, I haven't shown any signs of being able to use the Force. I would call that a crying shame if I still didn't have hope that one day I will be able to take up my brother's lightsaber and cut those First Order jerks a new one. For now, I suppose I should be content with the fact that I was described as having the power in the new trailer while my brother narrated, but I will be patiently waiting for the day when I too can wield the devastating power my brother and son command.", 
