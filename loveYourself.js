@@ -40,7 +40,7 @@ and keep the comma at the end of the line.
 
 */
 
-"title": "How shoudl you love yourself this week?",
+"title": "How should you love yourself this week?",
 
 "description": "Valentine's Day is a time to celebrate and spread love, and that includes loving yourself. Besides making (or avoiding) Valentine's Day plans with bae (or friends) this week, find a new way to show yourself the love and self?care we all deserve.",
 
