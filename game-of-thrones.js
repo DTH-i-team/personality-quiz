@@ -30,8 +30,8 @@ quiz_data = {
      and keep the comma at the end of the line.
     */
 
-    "title": “Which Game of Thrones House Do You Belong To?”,
-    "description": “Baratheon, Lannister, Stark, or Greyjoy - the choice is yours.”,
+    "title": "Which Game of Thrones House Do You Belong To?",
+    "description": "Baratheon, Lannister, Stark, or Greyjoy - the choice is yours.",
 
 
 
@@ -300,7 +300,7 @@ quiz_data = {
              /* If you need more answer choices,
              copy and paste a section- from the { to the } and the comma -
              above this instruction, beneath the last choice section. */
-      
+
 	 /* Stop copying right BEFORE this instruction. Include the } and comma */
 
 
