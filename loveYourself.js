@@ -228,9 +228,7 @@ above this instruction, beneath the last choice section. */
 
 {
 
-"img":
-
-"https://s3.amazonaws.com/media.dth/30310_1104_ramses_zhenwei_zhang_233o.jpg",
+"img":"https://s3.amazonaws.com/media.dth/30310_1104_ramses_zhenwei_zhang_233o.jpg",
 "source": "Source: DTH/Zhenwei Zhang",
 "result": 3
 

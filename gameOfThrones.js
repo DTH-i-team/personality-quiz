@@ -30,7 +30,7 @@ quiz_data = {
      and keep the comma at the end of the line.
     */
     
-    "title": "Which Game of Thrones House Do You Belong To?",
+    "title": "Which Game of Thrones house do you belong to?",
     "description": "Baratheon, Lannister, Stark, or Greyjoy - the choice is yours.",
 
     
@@ -122,7 +122,7 @@ quiz_data = {
                 "result": 3
              },
              
-		     {
+	    {
                 "text": "Whiskey", 
                 "result": 2
              },
@@ -150,7 +150,7 @@ quiz_data = {
                 "result": 2
              },
              
-		     {
+	  {
                 "text": "Invisibility", 
                 "result": 4
              },
