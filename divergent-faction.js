@@ -76,7 +76,7 @@ quiz_data = {
 
 
 	{
-        "title": “To be honest, you’re candor.“,
+        "title": "To be honest, you're candor.",
         "description": "You’re honest, like really honest. Some may think you’re blunt, but you’ll be the first to point out a bad call.",
         "img": "http://cdn.playbuzz.com/cdn/7e31a66f-43e7-49b0-ba96-235930654b69/279a9377-5161-4abb-8502-573df586cb3d.jpg.",
 	    "source": "Source: playbuzz.com",
