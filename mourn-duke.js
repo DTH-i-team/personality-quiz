@@ -61,7 +61,7 @@ When the reader finishes, one of these results will be shown.
 "title": "Aries",
 
 "description": "Eat some cake!",
-
+"img": "",
 
 },
 
