@@ -42,7 +42,7 @@ and keep the comma at the end of the line.
 
 "title": "How should you mourn the Duke loss?",
 
-"description": "We all have to mourn but each sign mourns differently?",
+"description": "We all have to mourn but each sign mourns differently.",
 
 /*
 
