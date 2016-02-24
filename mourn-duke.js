@@ -60,9 +60,9 @@ When the reader finishes, one of these results will be shown.
 
 "title": "Aries",
 
-"description": "Eat some cake!"
+"description": "Eat some cake!",
 
-
+"img": "",
 },
 
 /* Result 2 */
@@ -72,7 +72,7 @@ When the reader finishes, one of these results will be shown.
 "title": "Taurus",
 
 "description": "Light a candle and say a prayer.",
-
+"img": "",
 
 
 },
@@ -85,7 +85,7 @@ When the reader finishes, one of these results will be shown.
 
 "description": "Skip your Friday classes!",
 
-
+"img": "",
 
 },
 
@@ -96,7 +96,7 @@ When the reader finishes, one of these results will be shown.
 "title": "Cancer",
 
 "description": "Sing the song of your people at midnight for 5 days",
-
+"img": "",
 
 
 },
@@ -108,7 +108,7 @@ When the reader finishes, one of these results will be shown.
 "title": "Leo",
 
 "description": "Ben and Jerry will provide you the comfort you seek.",
-
+"img": "",
 
 
 },
@@ -120,7 +120,7 @@ When the reader finishes, one of these results will be shown.
 "title": "Virgo",
 
 "description": "Stock up on Lenoir cookies!",
-
+"img": "",
 
 
 },
@@ -134,7 +134,7 @@ When the reader finishes, one of these results will be shown.
 
 
 "description": "Sing the Alma Mater 10x to yourself in the dorm bathroom mirror",
-
+"img": "",
 
 
 },
@@ -147,7 +147,7 @@ When the reader finishes, one of these results will be shown.
 
 "description": "Have a beer (or two).",
 
-
+"img": "",
 },
 
 /* Result 9 */
@@ -157,7 +157,7 @@ When the reader finishes, one of these results will be shown.
 "title": "Sagittarius",
 
 "description": "Netflix and Chill with that special someone you've been crushing on.",
-
+"img": "",
 
 
 },
@@ -170,7 +170,7 @@ When the reader finishes, one of these results will be shown.
 
 "description": "Hold a fake funeral for our hopes and dreams on the QUAD.",
 
-
+"img": "",
 
 },
 
@@ -181,7 +181,7 @@ When the reader finishes, one of these results will be shown.
 "title": "Aquarius",
 
 "description": "Avoid social media for a week. It'll ease the pain.",
-
+"img": "",
 
 
 },
@@ -194,7 +194,7 @@ When the reader finishes, one of these results will be shown.
 
 "description": "You're the reason we lost.",
 
-
+"img": "",
 
 },
 
