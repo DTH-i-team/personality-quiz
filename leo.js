@@ -106,7 +106,7 @@ quiz_data = {
         /* This section is for a question with text answer choices  */
 
        /* Start copying right AFTER this instruction */
-       {"question": "The luxury cruise liner you scammed your way onto is sinking- what do you do?",
+       {"question": "The luxury cruise liner you scammed your way onto is sinking - what do you do?",
          "answers": [
              {
                 "text": "Try to make it onto a lifeboat",
@@ -154,7 +154,7 @@ quiz_data = {
 
            ]
          },
-{"question": "How would you describe yourself at parties",
+{"question": "How would you describe yourself at parties?",
          "answers": [
              {
                 "text": "I immediately find the quietest corner possible and stick to it",
@@ -240,7 +240,7 @@ quiz_data = {
              /* If you need more answer choices,
              copy and paste a section- from the { to the } and the comma -
              above this instruction, beneath the last choice section. */
-      
+
 	 /* Stop copying right BEFORE this instruction. Include the } and comma */
 
 
