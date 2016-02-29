@@ -151,9 +151,10 @@ quiz_data = {
                 "text": "Curse",
                 "result": 4
              },
+{
              "text": "Cry",
              "result": 3
-		     {
+
 
              },
 
@@ -217,7 +218,7 @@ quiz_data = {
              above this instruction, beneath the last choice section. */
          ]
 
-        }
+       }
              /* If you need more answer choices,
              copy and paste a section- from the { to the } and the comma -
              above this instruction, beneath the last choice section. */
