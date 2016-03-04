@@ -57,27 +57,19 @@ When the reader finishes, one of these results will be shown.
 /* Result 1 */
 
 {
-
-"title": "Pixar",
-
-"description": "The world is too small for you! A natural adventurer, you seek for something new and exhilarating day by day. Keep at it and... 'To infinity... and beyond!'",
-
-"img": "https://s3.amazonaws.com/media.dth/32296_pixarlogof.jpg",
-"source": "Source: Fandom Wikia",
-
+  "title": "Pixar",
+  "description": "The world is too small for you! A natural adventurer, you seek for something new and exhilarating day by day. Keep at it and... 'To infinity... and beyond!'",
+  "img": "https://s3.amazonaws.com/media.dth/32296_pixarlogof.jpg",
+  "source": "Source: Fandom Wikia",
 },
 
 /* Result 2 */
 
 {
-
-"title": "Disney",
-
-"description": "You're a classic romantist. Dream on and someday that perfect person will be on your doorstep with a pair of glass slippers or a magic lamp. 'Hakuna Matata!'",
-
-"img":"https://s3.amazonaws.com/media.dth/32293_walt_disney_picturesf.jpg",
-"source": "Source: Picgifs.com",
-
+  "title": "Disney",
+  "description": "You're a classic romantist. Dream on and someday that perfect person will be on your doorstep with a pair of glass slippers or a magic lamp. 'Hakuna Matata!'",
+  "img":"https://s3.amazonaws.com/media.dth/32293_walt_disney_picturesf.jpg",
+  "source": "Source: Picgifs.com",
 },
 
 
@@ -132,39 +124,30 @@ For the rest of the questions, copy and paste whichever of the 2 you want.
 
 /* Start copying right AFTER this instruction */
 
-{"question": "What's your dream car?",
+{ "question": "What's your dream car?",
 
 "answers": [
 
 {
+  "text": "A white horse with a shiny black mane.",
+  "result": 2
+},
 
-"text": "A white horse with a shiny black mane.",
-
-"result": 2
+{
+  "text": "A flying carpet.",
+  "result": 2
 
 },
 
 {
-
-"text": "A flying carpet.",
-
-"result": 2
+  "text": "I'm building one in my garage. Top Secret.",
+  "result": 1
 
 },
 
 {
-
-"text": "I'm building one in my garage. Top Secret.",
-
-"result": 1
-
-},
-
-{
-
-"text": "I make good use of my trusty feet.",
-
-"result": 1
+  "text": "I make good use of my trusty feet.",
+  "result": 1
 
 },
 
@@ -178,40 +161,29 @@ above this instruction, beneath the last choice section. */
 
 }, /* Stop copying right BEFORE this instruction */
 
-{"question": "Who would you spend your leap day with?",
+{ "question": "Who would you spend your leap day with?",
 
 "answers": [
 
 {
+  "text": "Me, myself and I.",
+  "result": 1
+},
 
-"text": "Me, myself and I.",
-
-"result": 1
+{
+  "text": "Friends, duh.",
+  "result": 1
 
 },
 
 {
-
-"text": "Friends, duh.",
-
-"result": 1
-
+  "text": "I'm taken. I have my girlfriend/boyfriend.",
+  "result": 2
 },
 
 {
-
-"text": "I'm taken. I have my girlfriend/boyfriend.",
-
-"result": 2
-
-},
-
-{
-
-"text": "Family.",
-
-"result": 1
-
+  "text": "Family.",
+  "result": 1
 },
 
 /* If you need more answer choices,
@@ -224,102 +196,72 @@ above this instruction, beneath the last choice section. */
 
 },
 
-{"question": "Favorite garments?",
+{ "question": "Favorite garments?",
 
 "answers": [
 
 {
-
-"text": "I prefer nudity.",
-
-"result": 1
-
+  "text": "I prefer nudity.",
+  "result": 1
 },
 
 {
-
-"text": "Ribbons and laces.",
-
-"result": 2
-
+  "text": "Ribbons and laces.",
+  "result": 2
 },
 
 {
-
-"text": "Something clunky ­like a robot suit.",
-
-"result": 1
-
+  "text": "Something clunky ­like a robot suit.",
+  "result": 1
 },
 
 {
-
-"text": "A smart suit and a vest.",
-
-"result": 2
+  "text": "A smart suit and a vest.",
+  "result": 2
 
 },
+
 ]
 },
 
-{"question": "Which one are you?",
+{ "question": "Which one are you?",
 
 "answers": [
 
 {
-
-"text": "A talking dragon.",
-
-"result": 2
-
+  "text": "A talking dragon.",
+  "result": 2
 },
 
 {
-
-"text": "A furry rabbit.",
-
-"result": 2
-
+  "text": "A furry rabbit.",
+  "result": 2
 },
 
 {
-
-"text": "A robot.",
-
-"result": 1
-
+  "text": "A robot.",
+  "result": 1
 },
 
 {
-
-"text": "An alien.",
-
-"result": 1
-
+  "text": "An alien.",
+  "result": 1
 },
+
 ]
 },
 
-{"question": "Do you...",
+{ "question": "Do you...",
 
 "answers": [
-
-
-
 {
-
-"text": "Blindly fight for justice.",
-
-"result": 2
-
+  "text": "Blindly fight for justice.",
+  "result": 2
 },
 
 {
-
-"text": "Hear both sides of the argument and come to a conclusion.",
-
-"result": 1
-
+  "text": "Hear both sides of the argument and come to a conclusion.",
+  "result": 1
 },
 
 /* If you need more answer choices,
@@ -344,7 +286,7 @@ above this instruction, beneath the last choice section. */
 
 /* Start copying right AFTER this instruction */
 
-{"question": “Where would you live?“,
+{"question": "Where would you live?",
 
 "answers": [
 
