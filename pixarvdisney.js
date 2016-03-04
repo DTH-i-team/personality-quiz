@@ -366,8 +366,6 @@ above this instruction, beneath the last choice section. */
 
 "text": "A sweet suburban neighborhood.",
 
-
-
 "source": "Source: Pixar Post",
 
 "result": 1
@@ -391,8 +389,6 @@ above this instruction, beneath the last choice section. */
 "img":"https://s3.amazonaws.com/media.dth/32292_dwarfcottagef.jpg",
 
 "text": "In the woods.",
-
-
 
 "source": "Source: Disney Wikia",
 
