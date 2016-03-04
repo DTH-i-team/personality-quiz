@@ -352,7 +352,7 @@ above this instruction, beneath the last choice section. */
 
 "img":"https://s3.amazonaws.com/media.dth/32294_mermaid_housef.jpg",
 
-"text": "A seaside castle.",
+
 
 "source": "Source: Stylist UK",
 
@@ -364,7 +364,7 @@ above this instruction, beneath the last choice section. */
 
 "img":"https://s3.amazonaws.com/media.dth/32295_toy_story_housef.jpg",
 
-"text": "A sweet suburban neighborhood.",
+
 
 "source": "Source: Pixar Post",
 
@@ -376,7 +376,7 @@ above this instruction, beneath the last choice section. */
 
 "img":"https://s3.amazonaws.com/media.dth/32297_bugs_cityf.png",
 
-"text": "An urban city.",
+
 
 "source": "Source: Pixar Post",
 
@@ -388,7 +388,7 @@ above this instruction, beneath the last choice section. */
 
 "img":"https://s3.amazonaws.com/media.dth/32292_dwarfcottagef.jpg",
 
-"text": "In the woods.",
+
 
 "source": "Source: Disney Wikia",
 
