@@ -178,7 +178,7 @@ quiz_data = {
          ]
         },
 
-        {"question": "What's your favorite pastime activity?", 
+        {"question": "What's your favorite pastime activity?",
         "answers":[
              {
                 "text": "Kicking butt and taking names.",
