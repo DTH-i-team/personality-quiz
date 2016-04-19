@@ -53,7 +53,7 @@ quiz_data = {
         /* Result 2 */
         {
         "title": "Piper",
-        "description": "You're a kick-butt gal with a penchant for truth, justice, and freedom of speech! You're not afraid to stand up against "the man" (or any would-be synths, for that matter) and you're always going to fight for the little guy in the desolation of the wasteland. Your life is a little rough and your firm believes probably aren't making it any easier, but you have the moral high ground when it comes to morality issues, something a lot of people in a post-apocalyptic world often leave behind.",
+        "description": "You're a kick-butt gal with a penchant for truth, justice, and freedom of speech! You're not afraid to stand up against 'the man' (or any would-be synths, for that matter) and you're always going to fight for the little guy in the desolation of the wasteland. Your life is a little rough and your firm believes probably aren't making it any easier, but you have the moral high ground when it comes to morality issues, something a lot of people in a post-apocalyptic world often leave behind.",
         "img": "https://staticdelivery.nexusmods.com/mods/1151/images/721-2-1447612631.jpg",
 	    "source": "Nexusmods.com",
         },
