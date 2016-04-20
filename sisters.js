@@ -166,7 +166,9 @@ quiz_data = {
              copy and paste a section- from the { to the } and the comma -
              above this instruction, beneath the last choice section. */
          ]
-        }, {"question": "Where do you want to spend the summer?": [
+        },
+        {"question": "Where do you want to spend the summer?",
+        "answers" : [
              {
                 "text": "With my family!",
                 "result": 4
@@ -191,7 +193,8 @@ quiz_data = {
              copy and paste a section- from the { to the } and the comma -
              above this instruction, beneath the last choice section. */
          ]
-        }, {"question": "Which member of your friend group are you?",
+        },
+        {"question": "Which member of your friend group are you?",
          "answers": [
              {
                 "text": "The shy one",
