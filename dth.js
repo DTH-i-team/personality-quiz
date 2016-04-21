@@ -142,8 +142,8 @@ quiz_data = {
         {"question": "Choose an emoji.",
          "answers": [
              {
-                "img": "http://cdn.shopify.com/s/files/1/0185/5092/products/persons-0057.png",
-		        "source": "Source: CDN",
+                "img": "http://emojipedia-us.s3.amazonaws.com/cache/3b/57/3b57c2efe844d5cae0f9982a264fa11a.png",
+		        "source": "Source: emojipedia",
                 "result": 2
              },
              {
