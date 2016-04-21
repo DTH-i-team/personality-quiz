@@ -142,7 +142,7 @@ quiz_data = {
         {"question": "Choose an emoji.",
          "answers": [
              {
-                "img": "http://cdn.shopify.com/s/files/1/0185/5092/products/persons-0057.png.",
+                "img": "http://cdn.shopify.com/s/files/1/0185/5092/products/persons-0057.png",
 		        "source": "Source: CDN",
                 "result": 2
              },
@@ -258,7 +258,7 @@ quiz_data = {
              /* If you need more answer choices,
              copy and paste a section- from the { to the } and the comma -
              above this instruction, beneath the last choice section. */
-        
+
 
 
 
