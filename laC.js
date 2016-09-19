@@ -31,7 +31,7 @@ quiz_data = {
     */
 
     "title": "Quiz: What flavor of La Croix are you?",
-    "description": "La Croix: the drink that is all of a sudden sweeping the nation. The sparkling water beverage is advertised as being 100% natural, calorie-free and sugar-free. While it is especially popular with the college crowd and mothers across the board, it appears to be the drink everyone is sipping on. Several Instagram accounts have surfaced resulting from the La Croix phenomena including @lacroixsoverboys, @peopleoflacroix, @hotguysdrinkinglacroix, and @lacroixdoingthings to name a few. Is your thirst for La Croix real? Quench your thirst with this quiz to find out which flavor you are."
+    "description": "La Croix: the drink that is all of a sudden sweeping the nation. The sparkling water beverage is advertised as being 100% natural, calorie-free and sugar-free. While it is especially popular with the college crowd and mothers across the board, it appears to be the drink everyone is sipping on. Several Instagram accounts have surfaced resulting from the La Croix phenomena including @lacroixsoverboys, @peopleoflacroix, @hotguysdrinkinglacroix, and @lacroixdoingthings to name a few. Is your thirst for La Croix real? Quench your thirst with this quiz to find out which flavor you are.",
 
 
     /*
