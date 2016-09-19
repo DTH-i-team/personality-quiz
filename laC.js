@@ -223,7 +223,7 @@ quiz_data = {
              copy and paste a section- from the { to the } and the comma -
              above this instruction, beneath the last choice section. */
          ]
-        },
+        }
 /* Stop copying right BEFORE this instruction. Include the } and comma */
 
 
