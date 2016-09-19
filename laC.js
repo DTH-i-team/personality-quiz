@@ -125,6 +125,9 @@ quiz_data = {
                 "text": "Tan on the beach",
                 "result": 4
              },
+           ]
+         },
+
        {"question": "Pick the word that best describes your personality",
          "answers": [
              {
@@ -146,6 +149,8 @@ quiz_data = {
                 "text": "Unique",
                 "result": 2
              },
+           ]
+         },
        {"question": "Pick a color",
          "answers": [
              {
@@ -167,6 +172,8 @@ quiz_data = {
                 "text": "Pink",
                 "result": 3
              },
+           ]
+         },
        {"question": "What's your favorite season?",
          "answers": [
              {
@@ -188,6 +195,8 @@ quiz_data = {
                 "text": "Fall",
                 "result": 1
              },
+           ]
+         },
        {"question": "Pick a dream vacation destination",
          "answers": [
              {
